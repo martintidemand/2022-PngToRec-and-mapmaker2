@@ -1,7 +1,7 @@
 # 2022-PngToRec-and-mapmaker2
 2 tools. Png2Rec transforms a png file into a list of rectangles of each color. Mapmaker2 plugin for Roblox Studio then uses the rectangles to create a 3D map in Roblox.
 
-PngToRec uses multiple processes running in parallel, while Mapmaker2 uses multiple processes running sequentially.
+PngToRec uses multiple tasks running in parallel, while Mapmaker2 uses multiple tasks running sequentially.
 
 ----------------------------
 
