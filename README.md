@@ -5,7 +5,9 @@ PngToRec uses multiple processes running in parallel, while Mapmaker2 uses multi
 
 ----------------------------
 
-The output of PngToRec, in the format of first coordinates. 
+The output of PngToRec, in the format of:
+
+First the coordinates of the rectangles. 
 
 Then a list of biomes, heights and colors for debugging only, as unaccounted colors will show up here.
 
